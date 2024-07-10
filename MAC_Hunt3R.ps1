@@ -1,4 +1,4 @@
-# Script written by Sean Bikkes 18/10/2023
+# Script written by Sean Bix 18/10/2023
 
 Write-Host "                                   "
 Write-Host "            ---------              "
